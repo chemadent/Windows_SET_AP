@@ -1,5 +1,5 @@
 # Windows_SET_AP
-Make your Windows laptop work as a Wi-Fi AP
+Make your Windows laptop work as a Wi-Fi AP. Tested on Window 7.
 
 ### Version
 1.0.0
@@ -10,6 +10,7 @@ Make your Windows laptop work as a Wi-Fi AP
 
 ### Problem
 For Windows 10 users, you might see the following picture:
+
 ![alt text](https://raw.githubusercontent.com/chemadent/Windows_SET_AP/master/win10_error_message.jpeg)
 
 0. Make sure you turn on Wi-Fi.
