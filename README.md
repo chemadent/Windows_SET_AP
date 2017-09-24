@@ -1,5 +1,5 @@
 # Windows_SET_AP
-Make your Windows laptop work as a Wi-Fi AP. Tested on Window 7.
+Make your Windows laptop work as a Wi-Fi AP. Tested on Windows 7.
 
 ### Version
 1.0.0
